@@ -54,3 +54,41 @@ pip install -r requirements.txt
 python main.py
 ```
 
+The script will ask for parameters interactively:
+* Thermal values
+* PID gains
+* Disturbance
+* Simulation duration
+
+📊 Outputs
+
+This project demonstrates:
+Step response
+Bode magnitude and phase
+PID-like fast control
+Disturbance rejection
+Closed-loop stability
+Example plots:
+System response
+Controlled vs uncontrolled
+Temperature stabilization
+🧪 Example Applications
+Data center cooling control
+IoT temperature systems
+Industrial heater control
+Smart-building energy efficiency
+📚 Academic Value
+This project can be used for:
+Control systems courses
+Signals and Systems modeling
+Master’s research projects
+Thermal dynamics studies
+📌 Future Work
+MPC control
+Multi-zone thermal networks
+Fan/CRAC models
+Adaptive gain tuning
+Author
+Jalal Jalili
+Master of Engineering – Dynamic Systems
+
