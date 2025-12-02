@@ -62,16 +62,18 @@ The script will ask for parameters interactively:
 
 📊 Outputs
 
-This project demonstrates:
-Step response
-Bode magnitude and phase
-PID-like fast control
-Disturbance rejection
-Closed-loop stability
+* This project demonstrates:
+* Step response
+* Bode magnitude and phase
+* PID-like fast control
+* Disturbance rejection
+* Closed-loop stability
+
 Example plots:
-System response
-Controlled vs uncontrolled
-Temperature stabilization
+* System response
+* Controlled vs uncontrolled
+* Temperature stabilization
+
 🧪 Example Applications
 Data center cooling control
 IoT temperature systems
