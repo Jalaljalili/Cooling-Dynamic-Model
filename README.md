@@ -75,22 +75,28 @@ Example plots:
 * Temperature stabilization
 
 🧪 Example Applications
-Data center cooling control
-IoT temperature systems
-Industrial heater control
-Smart-building energy efficiency
+
+* Data center cooling control
+* IoT temperature systems
+* Industrial heater control
+* Smart-building energy efficiency
+
 📚 Academic Value
-This project can be used for:
-Control systems courses
-Signals and Systems modeling
-Master’s research projects
-Thermal dynamics studies
+
+* This project can be used for:
+* Control systems courses
+* Signals and Systems modeling
+* Master’s research projects
+* Thermal dynamics studies
+
 📌 Future Work
-MPC control
-Multi-zone thermal networks
-Fan/CRAC models
-Adaptive gain tuning
-Author
+
+* MPC control
+* Multi-zone thermal networks
+* Fan/CRAC models
+* Adaptive gain tuning
+
+## Author
 Jalal Jalili
 Master of Engineering – Dynamic Systems
 
